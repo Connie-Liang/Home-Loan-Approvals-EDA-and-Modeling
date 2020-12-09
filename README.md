@@ -25,12 +25,12 @@ https://docs.google.com/presentation/d/1Sr2aJVaEza6V-AZvfgQOq2F1klLFUHwjjSL3fCFv
 
 
 # ABOUT THE DATA:
-662,100 rows (loan applications)
-99 columns
+- 662,100 rows (loan applications)
+- 99 columns
 
 CLEANING:
-removed 38 columns
-10 columns used for modeling
+- removed 38 columns
+- 10 columns used for modeling
 
 INITIAL FEATURES OF INTEREST:
 - income
@@ -43,8 +43,8 @@ MULTICOLLINEAR FEATURE TO EXCLUDE:
 -denial reason (1-4)
 
 MODELS USED:
-logistic regression with 10 fold k-fold cross validation
-random forest
+- logistic regression with 10 fold k-fold cross validation
+- random forest
 
 # DATA SOURCE
 Federal Financial Institutions Examination Council's (FFIEC), Home Mortgage Disclosure Act - https://ffiec.cfpb.gov/data-browser/data/2019?category=states&items=CA
