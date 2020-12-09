@@ -49,7 +49,7 @@ MODELS USED:
 # DATA SOURCE
 - Federal Financial Institutions Examination Council's (FFIEC), Home Mortgage Disclosure Act 
     - https://ffiec.cfpb.gov/data-browser/data/2019?category=states&items=CA
-Index of Features
+- Index of Features
     - https://ffiec.cfpb.gov/documentation/2019/lar-data-fields/
 
 
